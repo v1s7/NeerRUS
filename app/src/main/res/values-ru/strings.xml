@@ -16,128 +16,128 @@
 
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">"Neer"</string>
-    <string name="kg_ml">"кг/мл"</string>
-    <string name="settings">"Настройки"</string>
-    <string name="go_back">"Вернуться на предыдущий экран"</string>
-    <string name="setting_app_version_title">"Версия приложения"</string>
-    <string name="add_water">"Добавить воды"</string>
-    <string name="today_record">"Сегодняшние приёмы"</string>
-    <string name="delete">"Удалить"</string>
-    <string name="edit">"Изменить"</string>
-    <string name="enter_details">"Введите данные"</string>
-    <string name="wake_up_time">"Время подъёма"</string>
-    <string name="sleep_time">"Время сна"</string>
-    <string name="select_wake_up_time">"Когда вы просыпаетесь?"</string>
-    <string name="select_sleep_time">"Когда вы ложитесь спать?"</string>
-    <string name="select_unit">"Какими единицами измерения вы пользуетесь?"</string>
-    <string name="select_gender">"Какого вы пола?"</string>
-    <string name="gender">"Пол"</string>
-    <string name="units">"Единицы"</string>
-    <string name="proceed">"Продолжить"</string>
-    <string name="water_amount">"Кол-во воды(%s)"</string>
-    <string name="enter_your_water_intake">"Введите целевое кол-во воды в %s"</string>
-    <string name="done">"Сделано"</string>
-    <string name="close">"Закрыть"</string>
-    <string name="change_the_water_intake_amount">"Измените кол-во воды за одно употребление"</string>
-    <string name="drink_target">"Выпито воды"</string>
-    <string name="no_water_consumed">"Сегодня не было приёмов воды"</string>
-    <string name="amount">"Кол-во"</string>
-    <string name="edit_drunk_amount">"Измените кол-во выпитой воды"</string>
-    <string name="dismiss">"Игнорировать"</string>
-    <string name="confirm">"Подтвердить"</string>
-    <string name="clear">"Очистить"</string>
-    <string name="privacy_policy">"Политика конфиденциальности"</string>
-    <string name="name">"Имя"</string>
-    <string name="height">"Рост"</string>
-    <string name="weight">"Вес"</string>
-    <string name="notification">"Уведомление"</string>
-    <string name="edit_your_name">"Измените своё имя"</string>
-    <string name="water">"Вода"</string>
-    <string name="notification_description">"Для напоминаний о приёме воды"</string>
-    <string name="reminder_notification">"Требуется разрешение"</string>
-    <string name="notification_permission_message">"Выдайте приложению разрешение на отправку уведомлений чтобы получать своевременные напоминания и легко избегать обезвоживания."</string>
-    <string name="notification_title">"Time for a Sip!"</string>
-    <string name="notification_message">"Stay on top of your hydration game! It's time for a quick water break. Keep the refreshments flowing!"</string>
-    <string name="drunk">"Выпито"</string>
-    <string name="cd_notifications_enabled">"Уведомления включены"</string>
-    <string name="cd_notifications_disabled">"Уведомления отключены"</string>
-    <string name="setting_enable_notifications">"Включить уведомления"</string>
-    <string name="notification_disable_message">"Отключение уведомлений предотвратит появление напоминаний. Продолжить?"</string>
-    <string name="disable_notifications">"Отключение уведомлений"</string>
-    <string name="change_your_height">"Измените свой рост (см)"</string>
-    <string name="change_your_weight">"Измените свой вес"</string>
-    <string name="privacy">"Конфиденциальность"</string>
-    <string name="privacy_policy_message">"Наша политика конфиденциальности отражает нашу приверженность к прозрачности и уважению ваших данных.\nМы не собираем личную информацию наших пользователей, гарантируя, что Ваша конфиденциальность остается первостепенной. У Вас есть полный контроль над своими данными, и мы соблюдаем строгие меры безопасности для их защиты. Наш приоритет — Ваше доверие."</string>
-    <string name="app_privacy_policy">"Политика конфиденциальности приложения Neer"</string>
-    <string name="change_your_drink_target">"Измените ежедневную цель"</string>
+    <string name="app_name">Neer</string>
+    <string name="kg_ml">кг/мл</string>
+    <string name="settings">Настройки</string>
+    <string name="go_back">Вернуться на предыдущий экран</string>
+    <string name="setting_app_version_title">Версия приложения</string>
+    <string name="add_water">Добавить воды</string>
+    <string name="today_record">Сегодняшние приёмы</string>
+    <string name="delete">Удалить</string>
+    <string name="edit">Изменить</string>
+    <string name="enter_details">Введите данные</string>
+    <string name="wake_up_time">Время подъёма</string>
+    <string name="sleep_time">Время сна</string>
+    <string name="select_wake_up_time">Когда вы просыпаетесь?</string>
+    <string name="select_sleep_time">Когда вы ложитесь спать?</string>
+    <string name="select_unit">Какими единицами измерения вы пользуетесь?</string>
+    <string name="select_gender">Какого вы пола?</string>
+    <string name="gender">Пол</string>
+    <string name="units">Единицы</string>
+    <string name="proceed">Продолжить</string>
+    <string name="water_amount">Кол-во воды(%s)</string>
+    <string name="enter_your_water_intake">Введите целевое кол-во воды в %s</string>
+    <string name="done">Сделано</string>
+    <string name="close">Закрыть</string>
+    <string name="change_the_water_intake_amount">Измените кол-во воды за одно употребление</string>
+    <string name="drink_target">Выпито воды</string>
+    <string name="no_water_consumed">Сегодня не было приёмов воды</string>
+    <string name="amount">Кол-во</string>
+    <string name="edit_drunk_amount">Измените кол-во выпитой воды</string>
+    <string name="dismiss">Игнорировать</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="clear">Очистить</string>
+    <string name="privacy_policy">Политика конфиденциальности</string>
+    <string name="name">Имя</string>
+    <string name="height">Рост</string>
+    <string name="weight">Вес</string>
+    <string name="notification">Уведомление</string>
+    <string name="edit_your_name">Измените своё имя</string>
+    <string name="water">Вода</string>
+    <string name="notification_description">Для напоминаний о приёме воды</string>
+    <string name="reminder_notification">Требуется разрешение</string>
+    <string name="notification_permission_message">Выдайте приложению разрешение на отправку уведомлений чтобы получать своевременные напоминания и легко избегать обезвоживания.</string>
+    <string name="notification_title">Time for a Sip!</string>
+    <string name="notification_message">Stay on top of your hydration game! It's time for a quick water break. Keep the refreshments flowing!</string>
+    <string name="drunk">Выпито</string>
+    <string name="cd_notifications_enabled">Уведомления включены</string>
+    <string name="cd_notifications_disabled">Уведомления отключены</string>
+    <string name="setting_enable_notifications">Включить уведомления</string>
+    <string name="notification_disable_message">Отключение уведомлений предотвратит появление напоминаний. Продолжить?</string>
+    <string name="disable_notifications">Отключение уведомлений</string>
+    <string name="change_your_height">Измените свой рост (см)</string>
+    <string name="change_your_weight">Измените свой вес</string>
+    <string name="privacy">Конфиденциальность</string>
+    <string name="privacy_policy_message">Наша политика конфиденциальности отражает нашу приверженность к прозрачности и уважению ваших данных.\nМы не собираем личную информацию наших пользователей, гарантируя, что Ваша конфиденциальность остается первостепенной. У Вас есть полный контроль над своими данными, и мы соблюдаем строгие меры безопасности для их защиты. Наш приоритет — Ваше доверие.</string>
+    <string name="app_privacy_policy">Политика конфиденциальности приложения Neer</string>
+    <string name="change_your_drink_target">Измените ежедневную цель</string>
     <string name="unit_values">
     </string>
-    <string name="total_daily_water_intake">"Введите кол-во ежедневного потребления воды"</string>
-    <string name="height_value">"%s см"</string>
-    <string name="change_notification_interval">"Измените интервал напоминаний"</string>
-    <string name="hrs">"%s ч"</string>
-    <string name="notification_interval">"Интервал уведомлений"</string>
-    <string name="custom_interval_message">"Выберите подходящий для вас интервал питья воды"</string>
-    <string name="onbaording_meesage">"Давайте заведём новую здоровую привычку с персонализированными напоминаниями о приёмах. Установите подходящий вам интервал напоминаний и начнём избегать обезвоживание вместе!"</string>
-    <string name="onboarding_title">"Приветствуем на вашем побеге от жажды!"</string>
-    <string name="custom_reminders">"Пользовательские напоминания"</string>
-    <string name="edit_notification">"Параметры уведомления"</string>
-    <string name="personal">"Личное"</string>
-    <string name="sleep_cycle">"Цикл сна"</string>
-    <string name="others">"Прочее"</string>
-    <string name="support">"Поддержка"</string>
+    <string name="total_daily_water_intake">Введите кол-во ежедневного потребления воды</string>
+    <string name="height_value">%s см</string>
+    <string name="change_notification_interval">Измените интервал напоминаний</string>
+    <string name="hrs">%s ч</string>
+    <string name="notification_interval">Интервал уведомлений</string>
+    <string name="custom_interval_message">Выберите подходящий для вас интервал питья воды</string>
+    <string name="onbaording_meesage">Давайте заведём новую здоровую привычку с персонализированными напоминаниями о приёмах. Установите подходящий вам интервал напоминаний и начнём избегать обезвоживание вместе!</string>
+    <string name="onboarding_title">Приветствуем на вашем побеге от жажды!</string>
+    <string name="custom_reminders">Пользовательские напоминания</string>
+    <string name="edit_notification">Параметры уведомления</string>
+    <string name="personal">Личное</string>
+    <string name="sleep_cycle">Цикл сна</string>
+    <string name="others">Прочее</string>
+    <string name="support">Поддержка</string>
     <string-array name="weighing_values">
-        <item>"кг"</item>
-        <item>"Lbs"</item>
+        <item>кг</item>
+        <item>Lbs</item>
     </string-array>
     <string-array name="measurement_values">
-        <item>"мл"</item>
-        <item>"oz"</item>
+        <item>мл</item>
+        <item>oz</item>
     </string-array>
 
     <string-array name="water_reminder_titles">
-        <item>"Не забывайте о воде"</item>
-        <item>"Избегайте обезвоживания"</item>
-        <item>"До дна!"</item>
-        <item>"Пора пить"</item>
-        <item>"Оставайтесь свежими"</item>
-        <item>"Скажите жажде \"Нет\"!"</item>
-        <item>"Не раскисайте"</item>
-        <item>"Освежитесь"</item>
-        <item>"Перерыв на питьё"</item>
-        <item>"Попейте воды"</item>
-        <item>"Требуется жидкость"</item>
-        <item>"Заправьтесь водой"</item>
-        <item>"Обнаружена нехватка H2O"</item>
-        <item>"Питьевая тревога"</item>
-        <item>"Требуется вода"</item>
-        <item>"Утолитель жажды"</item>
-        <item>"Время выпить"</item>
-        <item>"Призыв освежиться"</item>
-        <item>"Время жидкости"</item>
-        <item>"Не будьте сухим"</item>
+        <item>Не забывайте о воде</item>
+        <item>Избегайте обезвоживания</item>
+        <item>До дна!</item>
+        <item>Пора пить</item>
+        <item>Оставайтесь свежими</item>
+        <item>Скажите жажде \"Нет\"!</item>
+        <item>Не раскисайте</item>
+        <item>Освежитесь</item>
+        <item>Перерыв на питьё</item>
+        <item>Попейте воды</item>
+        <item>Требуется жидкость</item>
+        <item>Заправьтесь водой</item>
+        <item>Обнаружена нехватка H2O</item>
+        <item>Питьевая тревога</item>
+        <item>Требуется вода</item>
+        <item>Утолитель жажды</item>
+        <item>Время выпить</item>
+        <item>Призыв освежиться</item>
+        <item>Время жидкости</item>
+        <item>Не будьте сухим</item>
     </string-array>
     <string-array name="water_reminder_messages">
-        <item>"Избегайте обезвоживания, прибегайте к здоровью!"</item>
-        <item>"Сохраняйте спокойствие и выпейте воды."</item>
-        <item>"По одному глотку за раз."</item>
-        <item>"Вода — эликсир процветания!"</item>
-        <item>"Не забудьте восполнить запас жидкости в организме!"</item>
-        <item>"Попейте сейчас или пожалеете позже."</item>
-        <item>"Вода — ваш лучший друг."</item>
-        <item>"Утолите жажду, почувствуйте свободу!"</item>
-        <item>"Продолжайте пить и сиять."</item>
-        <item>"Утолите жажду, вам в пользу!"</item>
-        <item>"Освежитесь и сфокусируйтесь."</item>
-        <item>"Вода — дар природы."</item>
-        <item>"Главное — выпить!"</item>
-        <item>"Забудьте и запейте."</item>
-        <item>"Каждая капля имеет значение."</item>
-        <item>"Попейте сейчас, отблагодарите позже."</item>
-        <item>"Следующая остановка — ул. Водяная!"</item>
-        <item>"Вода — источник жизни."</item>
-        <item>"Избегайте обезвоживания, прибегайте к силе!"</item>
-        <item>"Бутылку с водой держите всегда под рукой!"</item>
+        <item>Избегайте обезвоживания, прибегайте к здоровью!</item>
+        <item>Сохраняйте спокойствие и выпейте воды.</item>
+        <item>По одному глотку за раз.</item>
+        <item>Вода — эликсир процветания!</item>
+        <item>Не забудьте восполнить запас жидкости в организме!</item>
+        <item>Попейте сейчас или пожалеете позже.</item>
+        <item>Вода — ваш лучший друг.</item>
+        <item>Утолите жажду, почувствуйте свободу!</item>
+        <item>Продолжайте пить и сиять.</item>
+        <item>Утолите жажду, вам в пользу!</item>
+        <item>Освежитесь и сфокусируйтесь.</item>
+        <item>Вода — дар природы.</item>
+        <item>Главное — выпить!</item>
+        <item>Забудьте и запейте.</item>
+        <item>Каждая капля имеет значение.</item>
+        <item>Попейте сейчас, отблагодарите позже.</item>
+        <item>Следующая остановка — ул. Водяная!</item>
+        <item>Вода — источник жизни.</item>
+        <item>Избегайте обезвоживания, прибегайте к силе!</item>
+        <item>Бутылку с водой держите всегда под рукой!</item>
     </string-array>
 </resources>
